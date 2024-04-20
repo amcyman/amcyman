@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Adama Apochi
+
+🌱 I’m currently learning Frontend Development
+👯 I’m looking to collaborate on HTML & CSS for now.
+🤔 I’m looking for help with Frontend Dev. and Git
+📫 You could reach me: +2348165435160
 
 <!--
 **amcyman/amcyman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,11 +11,13 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I’m currently learning Frontend Development
+- 👯 I’m looking to collaborate on HTML & CSS for now.
+- 🤔 I’m looking for help with Frontend Dev.
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: 08165435160
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Tech enthusiat
 -->
+
+
